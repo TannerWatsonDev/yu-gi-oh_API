@@ -1,0 +1,9 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: yugioh
+      POSTGRES_PASSWORD: yugioh
+      POSTGRES_DB: yugiohdb
+    ports:
+      - "5432:5432"

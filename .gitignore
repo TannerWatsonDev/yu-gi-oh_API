@@ -1,0 +1,13 @@
+# VS folders
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User secrets / credentials
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
