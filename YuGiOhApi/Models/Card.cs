@@ -7,6 +7,7 @@ namespace YuGiOhApi.Models
     {
         [Key]
         public int Id { get; set; }
+        public required string CardNumber { get; set; }
         public required string Name { get; set; }
         public required string Type { get; set; }
         public required string FrameType { get; set; }
