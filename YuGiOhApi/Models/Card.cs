@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Yu_Gi_Oh_API.Models
+namespace YuGiOhApi.Models
 
 {
     public class Card

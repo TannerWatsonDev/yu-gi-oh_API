@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Yu_Gi_Oh_API.Models;
+using YuGiOhApi.Models;
 
-namespace Yu_Gi_Oh_API.Data
+namespace YuGiOhApi.Data
 {
     // Databse context class for app, inherits from DbContext and provides access to the database
     public class AppDbContext : DbContext

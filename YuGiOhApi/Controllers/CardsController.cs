@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Yu_Gi_Oh_API.Data;
+using YuGiOhApi.Data;
 using Microsoft.EntityFrameworkCore;
-using Yu_Gi_Oh_API.Models;
+using YuGiOhApi.Models;
 
-namespace Yu_Gi_Oh_API.Controllers
+namespace YuGiOhApi.Controllers
 {
     // Set base URL for CardsController to "api/cards" and specify that it's an API controller
     [Route("api/[controller]")]

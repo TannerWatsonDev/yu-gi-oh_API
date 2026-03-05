@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using System;
-using Yu_Gi_Oh_API.Data;
+using YuGiOhApi.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

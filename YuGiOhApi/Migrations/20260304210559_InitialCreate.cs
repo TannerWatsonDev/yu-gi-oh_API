@@ -3,7 +3,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace Yu_Gi_Oh_API.Migrations
+namespace YuGiOhApi.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration
